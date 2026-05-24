@@ -1,0 +1,7 @@
+{
+  "author_section": {
+    "title": "Conheça o Profissional por trás",
+    "content": "Especialista em Enfermagem com experiência prática em ensino, preceptoria e treinamentos em ambientes hospitalares. Foco em transformar conteúdo técnico em algo simples, direto e aplicável na prática clínica.",
+    "jsx_structure": "      {/* Author Section */}\n      <section className=\"bg-white py-6 px-4\">\n        <div className=\"max-w-2xl mx-auto text-center\">\n          <h2 className=\"text-2xl sm:text-3xl font-black text-gray-900 mb-2\">Conheça o <span className=\"text-[#0284c7]\">Profissional</span> por trás</h2>\n          <div className=\"mt-6 mb-6 relative inline-block\">\n            <div className=\"w-40 h-40 rounded-full p-1.5 border-4 border-[#0284c7] overflow-hidden mx-auto bg-white\">\n              <img alt=\"Especialista\" className=\"w-full h-full object-cover rounded-full\" src=\"https://picsum.photos/seed/nursing-expert/200/200\" referrerPolicy=\"no-referrer\" />\n            </div>\n          </div>\n          <p className=\"text-gray-600 text-sm sm:text-base leading-relaxed mb-6\">\n            Especialista em Enfermagem com experiência prática em ensino, preceptoria e treinamentos em ambientes hospitalares.\n          </p>\n          <p className=\"text-gray-600 text-sm sm:text-base leading-relaxed mb-6\">\n            Foco em transformar conteúdo técnico em algo simples, direto e aplicável na prática clínica.\n          </p>\n        </div>\n      </section>"
+  }
+}
