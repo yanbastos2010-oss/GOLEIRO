@@ -169,7 +169,7 @@ export default function App() {
                 </div>
                 <h2 className="text-center font-black text-gray-900 text-3xl leading-tight mb-2">Espere! Antes de finalizar...</h2>
                 <p className="text-center text-sm text-gray-600 mb-4 leading-relaxed px-2">
-                  Você escolheu o plano básico de <span className="font-bold text-gray-800">R$ 10,00</span>, mas por apenas <span className="font-bold text-[#10B981]">R$ 9,90 a mais</span> pode liberar o Pacote Completo, com acesso total a +250 Dinâmicas para Treinamento de Goleiros e todos os bônus.
+                  Você escolheu o plano básico de <span className="font-bold text-gray-800">R$ 10,00</span>, mas por apenas <span className="font-bold text-[#10B981]">R$ 9,90 a mais</span> pode liberar o Pacote Completo, com acesso total a +250 Dinâmicas para Treinos de Goleiros e todos os bônus.
                 </p>
                 
                 <div className="bg-green-50/50 w-full rounded-2xl p-4 mb-4 border border-green-100 flex flex-col items-center">
@@ -183,7 +183,7 @@ export default function App() {
                       <div className="bg-[#10B981] rounded-full p-0.5 flex-shrink-0">
                         <Check className="w-3 h-3 text-white" strokeWidth={4} />
                       </div>
-                      <span className="text-[10px] sm:text-xs font-black text-gray-900 uppercase">+250 DINÂMICAS PARA TREINAMENTO DE GOLEIROS</span>
+                      <span className="text-[10px] sm:text-xs font-black text-gray-900 uppercase">+250 DINÂMICAS PARA TREINOS DE GOLEIROS</span>
                     </div>
                     <div className="flex items-center gap-2">
                       <div className="bg-[#10B981] rounded-full p-0.5 flex-shrink-0">
@@ -240,11 +240,11 @@ export default function App() {
             <span className="block sm:hidden text-[2.2rem] leading-[0.95] tracking-[-0.08em] px-0">
               <span className="block whitespace-nowrap"><span style={{ color: '#166534' }}>+250 Dinâmicas</span> que</span>
               <span className="block whitespace-nowrap">Tornam Seus</span>
-              <span className="block">Treinamentos de Goleiros <span style={{ color: '#166534' }}>Muito</span></span>
+              <span className="block">Treinos de Goleiros <span style={{ color: '#166534' }}>Muito</span></span>
               <span className="block whitespace-nowrap"><span style={{ color: '#166534' }}>Mais Eficientes</span></span>
             </span>
             <span className="hidden sm:inline">
-              <span style={{ color: '#166534' }}>+250 Dinâmicas</span> que Tornam Seus Treinamentos de Goleiros <span style={{ color: '#166534' }}>Muito Mais Eficientes</span>
+              <span style={{ color: '#166534' }}>+250 Dinâmicas</span> que Tornam Seus Treinos de Goleiros <span style={{ color: '#166534' }}>Muito Mais Eficientes</span>
             </span>
           </motion.h1>
           
@@ -319,7 +319,7 @@ export default function App() {
             {[
               "Fica sem ideias diferente para os treinos",
               "Percebe os goleiros desmotivados nos exercícios",
-              "Tem dificuldade em variar os treinamentos",
+              "Tem dificuldade em variar os treinos",
               "Perde muito tempo montando atividades",
               "Quer treinos mais organizados e profissionais",
               "Sente que os atletas acabam perdendo o foco"
@@ -347,7 +347,7 @@ export default function App() {
           </motion.div>
           <h2 className="text-3xl sm:text-4xl font-black text-gray-900 mb-4">Respira.</h2>
           <p className="text-lg sm:text-xl text-gray-700 leading-relaxed mb-4">
-            Com <span className="text-[#10B981] font-black">DINÂMICAS PRONTAS</span> você vai aplicar treinos mais envolventes, desenvolver habilidades importantes e manter os goleiros muito mais participativos durante os treinamentos.
+            Com <span className="text-[#10B981] font-black">DINÂMICAS PRONTAS</span> você vai aplicar treinos mais envolventes, desenvolver habilidades importantes e manter os goleiros muito mais participativos durante os treinos.
           </p>
         </div>
       </section>
@@ -414,7 +414,7 @@ export default function App() {
                   <div className="bg-[#10B981] rounded-full p-1 flex-shrink-0">
                     <Check className="w-3 h-3 text-white" strokeWidth={4} />
                   </div>
-                  +250 Dinâmicas para Treinamento de Goleiros
+                  +250 Dinâmicas para Treinos de Goleiros
                 </li>
                 <li className="flex items-center gap-2 text-gray-700 font-bold text-xs sm:text-sm">
                   <div className="bg-[#10B981] rounded-full p-1 flex-shrink-0">
@@ -457,7 +457,7 @@ export default function App() {
               </div>
               <div className="p-6 flex flex-col items-center w-full">
                 <h3 className="text-xl font-black mb-1 uppercase text-[#166534]">Plano Completo</h3>
-                <p className="text-gray-500 text-xs mb-4 text-center">Para transformar seus treinamentos</p>
+                <p className="text-gray-500 text-xs mb-4 text-center">Para transformar seus treinos</p>
                 <div className="flex font-black mb-1 items-start text-[#166534]">
                   <span className="text-lg mt-2">R$</span>
                   <span className="text-6xl">27</span>
@@ -476,7 +476,7 @@ export default function App() {
                     <div className="bg-[#10B981] rounded-full p-1 flex-shrink-0">
                       <Check className="w-4 h-4 text-white" strokeWidth={4} />
                     </div>
-                    <h4 className="text-[#10B981] font-black text-sm sm:text-base leading-tight">+250 Dinâmicas para Treinamento de Goleiros:</h4>
+                    <h4 className="text-[#10B981] font-black text-sm sm:text-base leading-tight">+250 Dinâmicas para Treinos de Goleiros:</h4>
                   </div>
                   <ul className="space-y-1 text-gray-700 font-bold text-sm ml-8 list-disc">
                     <li>Reflexo e Tempo de Reação</li>
@@ -617,7 +617,7 @@ export default function App() {
           <div className="space-y-3">
             {[
               { q: "Como recebo o material?", a: "Você recebe acesso imediato no seu e-mail logo após a confirmação do pagamento." },
-              { q: "Serve para quais idades?", a: "Sim, as dinâmicas atendem desde a base (escolinhas sub-7 ao sub-17) até treinamentos de goleiros adultos." },
+              { q: "Serve para quais idades?", a: "Sim, as dinâmicas atendem desde a base (escolinhas sub-7 ao sub-17) até treinos de goleiros adultos." },
               { q: "As atividades são fáceis de aplicar?", a: "Sim! Cada dinâmica vem explicada detalhadamente com foco nos objetivos de preparação." },
               { q: "Preciso ter experiência para utilizar?", a: "Não. O material é muito didático e ilustrado, facilitando a aplicação imediata por qualquer professor ou treinador." },
               { q: "Serve para escolinhas e clubes?", a: "Com certeza! É ideal para escolinhas de futebol, clubes profissionais, futsal ou projetos comunitários." },
