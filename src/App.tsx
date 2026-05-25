@@ -479,7 +479,7 @@ export default function App() {
                     <h4 className="text-[#10B981] font-black text-sm sm:text-base leading-tight">+250 Dinâmicas para Treinos de Goleiros:</h4>
                   </div>
                   <ul className="space-y-1 text-gray-700 font-bold text-sm ml-8 list-disc">
-                    <li>Reflexo e Tempo de Reação</li>
+                    <li>Tempo de Reação</li>
                     <li>Coordenação Motora</li>
                     <li>Agilidade e Movimentação</li>
                     <li>Posicionamento e Defesa</li>
